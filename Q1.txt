@@ -1,0 +1,8 @@
+Talha Demirer 
+Asciiname= 522
+Asciisurname= 854
+Asciitotal=1376
+Timernumber=193.64	
+ARRNUMBER=65535
+Duration=384.300
+LEDPINNUMBER=67.04
